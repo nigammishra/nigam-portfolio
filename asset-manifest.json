@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b41e8afa.css",
-    "main.js": "/portfolio/static/js/main.9569306d.js",
-    "static/js/415.4a069ee7.chunk.js": "/portfolio/static/js/415.4a069ee7.chunk.js",
-    "static/js/787.ffb75d8e.chunk.js": "/portfolio/static/js/787.ffb75d8e.chunk.js",
-    "static/media/leaf.png": "/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.a46a13b5281aef701a31.pdf",
-    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/nigam.jpg": "/portfolio/static/media/nigam.a0e52bfc402a7cf07c19.jpg",
-    "static/media/chatify.png": "/portfolio/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/portfolio/index.html",
-    "main.b41e8afa.css.map": "/portfolio/static/css/main.b41e8afa.css.map",
-    "main.9569306d.js.map": "/portfolio/static/js/main.9569306d.js.map",
-    "415.4a069ee7.chunk.js.map": "/portfolio/static/js/415.4a069ee7.chunk.js.map",
-    "787.ffb75d8e.chunk.js.map": "/portfolio/static/js/787.ffb75d8e.chunk.js.map"
+    "main.css": "/nigam-portfolio/static/css/main.c5a6ed4b.css",
+    "main.js": "/nigam-portfolio/static/js/main.1ae0dd5a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/nigam-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/nigam-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/nigam-portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/nigam-portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/nigam-portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/resume.pdf": "/nigam-portfolio/static/media/resume.a46a13b5281aef701a31.pdf",
+    "static/media/codeEditor.png": "/nigam-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/nigam-portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/nigam-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/nigam-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/nigam.jpg": "/nigam-portfolio/static/media/nigam.a0e52bfc402a7cf07c19.jpg",
+    "static/media/chatify.png": "/nigam-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/nigam-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/nigam-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/nigam-portfolio/index.html",
+    "main.c5a6ed4b.css.map": "/nigam-portfolio/static/css/main.c5a6ed4b.css.map",
+    "main.1ae0dd5a.js.map": "/nigam-portfolio/static/js/main.1ae0dd5a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/nigam-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/nigam-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b41e8afa.css",
-    "static/js/main.9569306d.js"
+    "static/css/main.c5a6ed4b.css",
+    "static/js/main.1ae0dd5a.js"
   ]
 }
