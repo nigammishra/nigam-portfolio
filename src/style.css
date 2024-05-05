@@ -265,7 +265,7 @@ button:focus {
 }
 
 .home-content {
-  padding: 9rem 0 2rem !important;
+  padding: 7rem 0 2rem !important;
   color: whitesmoke;
   text-align: left;
 }
@@ -446,7 +446,7 @@ button:focus {
 /* --------- */
 .project-section {
   position: relative !important;
-  padding-top: 150px !important;
+  padding-top: 90px !important;
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
 }
@@ -544,7 +544,7 @@ button:focus {
 
 .about-section {
   position: relative !important;
-  padding-top: 150px !important;
+  padding-top: 140px !important;
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
   color: white !important;
