@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/nigam-portfolio/static/css/main.2c649876.css",
-    "main.js": "/nigam-portfolio/static/js/main.53191e97.js",
+    "main.js": "/nigam-portfolio/static/js/main.fef2772c.js",
     "static/js/415.4d6acbeb.chunk.js": "/nigam-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/nigam-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/tourismmanagementsystem.png": "/nigam-portfolio/static/media/tourismmanagementsystem.512e6450082b24dfd75c.png",
     "static/media/artificial intelligence.png": "/nigam-portfolio/static/media/artificial intelligence.140fb60d68324da4d242.png",
-    "static/media/resume.pdf": "/nigam-portfolio/static/media/resume.a46a13b5281aef701a31.pdf",
+    "static/media/nigammishra.pdf": "/nigam-portfolio/static/media/nigammishra.9314eb602ae4e0ac1be5.pdf",
     "static/media/librarymanagementsystem.png": "/nigam-portfolio/static/media/librarymanagementsystem.9115e5185d68ad0cb799.png",
     "static/media/home-main.svg": "/nigam-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/nigam-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -15,12 +15,12 @@
     "static/media/pre.svg": "/nigam-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/nigam-portfolio/index.html",
     "main.2c649876.css.map": "/nigam-portfolio/static/css/main.2c649876.css.map",
-    "main.53191e97.js.map": "/nigam-portfolio/static/js/main.53191e97.js.map",
+    "main.fef2772c.js.map": "/nigam-portfolio/static/js/main.fef2772c.js.map",
     "415.4d6acbeb.chunk.js.map": "/nigam-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/nigam-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c649876.css",
-    "static/js/main.53191e97.js"
+    "static/js/main.fef2772c.js"
   ]
 }
