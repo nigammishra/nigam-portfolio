@@ -9,6 +9,11 @@ import {
   DiPython,
   DiGit,
   DiJava,
+  DiHtml5,
+  DiBootstrap,
+  DiCss3,
+  DiGithub,
+  DiResponsive
 } from "react-icons/di";
 // import {
 //   SiRedis,
@@ -28,24 +33,24 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
-      </Col> */}
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
-      </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <DiHtml5 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGithub />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
-      </Col> */}
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col> */}
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
-      </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <DiBootstrap />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiResponsive />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3 />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
