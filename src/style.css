@@ -155,8 +155,9 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 2em !important;
+  width: 3.5em !important;
+  mix-blend-mode: multiply;
 }
 
 .navbar-nav .nav-link {
