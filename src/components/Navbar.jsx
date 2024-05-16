@@ -40,7 +40,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src={logo} className="img-fluid " alt="brand" style={{width:'100px'}}  />
+          <img src={logo} className="img-fluid " alt="brand" style={{width:'80px'}}  />
           {/* <h2><b class="purple"> NM </b></h2> */}
         </Navbar.Brand>
         <Navbar.Toggle
