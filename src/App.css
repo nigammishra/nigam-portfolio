@@ -135,9 +135,10 @@ a:hover {
 
 .contact__options {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: center;
   gap: 1.2rem;
+  height: 190px;
 }
 
 .contact__option {
