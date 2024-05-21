@@ -11,7 +11,7 @@ const Contact = () => {
     const email = formRef.current.user_email.value;
     const message = formRef.current.message.value;
 
-    const subject = encodeURIComponent("Contact Form Submission");
+    const subject = encodeURIComponent("Sending Message");
     const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\nMessage: ${message}`);
 
     window.location.href = `mailto:nigammishra826@gmail.com?subject=${subject}&body=${body}`;
