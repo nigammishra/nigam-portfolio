@@ -8,13 +8,13 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-          <ImPointRight />Hi Everyone, I am <span className="purple">Nigam Mishra</span>
+          <ImPointRight />Hi Everyone, I am <span className="purple">Nigam Mishra </span>
             from <span className="purple"> Bhubaneswar, India.</span>
             <br />
-            <ImPointRight /> I am currently intern at Occac tower in Way India .
+            <ImPointRight />I am actively seeking a <span className="purple">full-time</span> position where I can leverage my strong <span className="purple">interpersonal skills</span>, excellent <span className="purple">time management</span>, and <span className="purple">problem-solving abilities</span> to contribute to a dynamic team.
             <br />
             <ImPointRight />I have completed BCA (Bachelor in computer application ) At 
-            Uttkal University(BBSR).
+            <span className="purple"> Uttkal University(BBSR).</span>
             <br />
             <br />
             <ImPointRight /> Apart from coding, some other activities that I love to do!

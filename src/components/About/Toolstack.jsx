@@ -5,6 +5,8 @@ import {
   SiNotepadplusplus,
   SiLeetcode,
   SiPostman,
+  SiSharp,
+  SiCodechef,
   // SiSlack,
   // SiVercel,
   SiMacos,
@@ -27,6 +29,12 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiLeetcode />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSharp />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiCodechef />
       </Col>
     </Row>
   );

@@ -65,7 +65,7 @@ function Projects() {
               imgPath={freshcart}
               isBlog={false}
               title="Fresh Cart"
-              description="This vibrant and animated grocery shop frontend design is crafted with a seamless blend of HTML, CSS, and JavaScript."
+              description="This vibrant and fully responsive grocery shop frontend, crafted using React.js alongside HTML, CSS, and JavaScript, features seamless animations and an engaging user experience."
               ghLink="https://github.com/nigammishra/grocery-shop.git"
               // demoLink="https://plant49-ai.herokuapp.com/"
             />

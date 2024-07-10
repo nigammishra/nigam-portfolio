@@ -13,7 +13,7 @@ import {
   DiBootstrap,
   DiCss3,
   DiGithub,
-  DiResponsive
+  DiResponsive,
 } from "react-icons/di";
 // import {
 //   SiRedis,
