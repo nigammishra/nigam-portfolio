@@ -7,6 +7,7 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
+  AiFillFacebook,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { ImPointRight } from "react-icons/im";
@@ -107,6 +108,16 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.instagram.com/mr_nigam_8199"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiFillFacebook />
                 </a>
               </li>
             </ul>
