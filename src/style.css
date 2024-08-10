@@ -762,6 +762,6 @@ button:focus {
 @media (max-width: 768px) {
   .logo2 {
     display: block;
-    width: 200px;
+    width: 180px;
   }
 }
