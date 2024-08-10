@@ -40,9 +40,10 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src={logo} className="img-fluid purple " alt="brand" style={{width:'210px'}}  />
-          {/* <h2><b class="purple"> NM </b></h2> */}
+          <img src={logo} className="img-fluid logo1" alt="brand" />
+          <img src={logo} className="img-fluid logo2" alt="brand" />
         </Navbar.Brand>
+
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
