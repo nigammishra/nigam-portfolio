@@ -1,23 +1,23 @@
-import React, { useRef, useState } from 'react';
+// import React, { useRef, useState } from 'react';
 import { MdOutlineEmail } from 'react-icons/md';
 
 const Contact = () => {
-  const [message, setMessage] = useState(false);
-  const formRef = useRef();
+  // const [message, setMessage] = useState(false);
+  // const formRef = useRef();
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    const name = formRef.current.user_name.value;
-    const email = formRef.current.user_email.value;
-    const message = formRef.current.message.value;
+  // const handleSubmit = (e) => {
+  //   e.preventDefault();
+  //   const name = formRef.current.user_name.value;
+  //   const email = formRef.current.user_email.value;
+  //   const message = formRef.current.message.value;
 
-    const subject = encodeURIComponent("Sending Message");
-    const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\nMessage: ${message}`);
+  //   const subject = encodeURIComponent("Sending Message");
+  //   const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\nMessage: ${message}`);
 
-    window.location.href = `mailto:nigammishra826@gmail.com?subject=${subject}&body=${body}`;
-    setMessage(true);
-    formRef.current.reset();
-  };
+  //   window.location.href = `mailto:nigammishra826@gmail.com?subject=${subject}&body=${body}`;
+  //   setMessage(true);
+  //   formRef.current.reset();
+  // };
 
   return (
     <section id="contact" style={{ paddingBottom: '50px', marginTop: '8rem' }}>
@@ -35,14 +35,16 @@ const Contact = () => {
             <a href="mailto:nigammishra826@gmail.com">Send a message</a>
           </article>
         </div>
-        <form ref={formRef} onSubmit={handleSubmit}>
+        <form action="https://api.web3forms.com/submit" method="POST">
+          <input type="hidden" name="access_key" defaultValue="ebd2b0eb-93c6-4189-b7e1-76c58cb11b41" />
+
           <input type="text" placeholder="Your Full Name" name="user_name" required />
           <input type="email" placeholder="Your Email" name="user_email" required />
           <textarea placeholder="Your message" rows="7" name="message" required></textarea>
           <button type="submit" className="btn btn-primary">
             Send Message
           </button>
-          {message && <span>Thanks, I'll reply ASAP :)</span>}
+          {/* {message && <span>Thanks, I'll reply ASAP :)</span>} */}
         </form>
       </div>
     </section>
