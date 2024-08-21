@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nigam-portfolio/static/css/main.3acab4f0.css",
-    "main.js": "/nigam-portfolio/static/js/main.c478df93.js",
+    "main.js": "/nigam-portfolio/static/js/main.1b1e885f.js",
     "static/js/415.4d6acbeb.chunk.js": "/nigam-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/nigam-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/tourismmanagementsystem.png": "/nigam-portfolio/static/media/tourismmanagementsystem.512e6450082b24dfd75c.png",
@@ -17,16 +17,16 @@
     "static/media/home-main.svg": "/nigam-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/nigam-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/home-bg.jpg": "/nigam-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/logo.png": "/nigam-portfolio/static/media/logo.c93cd2e94c76c6f1d62d.png",
+    "static/media/logo.png": "/nigam-portfolio/static/media/logo.060f3ad34dcd166439d0.png",
     "static/media/pre.svg": "/nigam-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/nigam-portfolio/index.html",
     "main.3acab4f0.css.map": "/nigam-portfolio/static/css/main.3acab4f0.css.map",
-    "main.c478df93.js.map": "/nigam-portfolio/static/js/main.c478df93.js.map",
+    "main.1b1e885f.js.map": "/nigam-portfolio/static/js/main.1b1e885f.js.map",
     "415.4d6acbeb.chunk.js.map": "/nigam-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/nigam-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3acab4f0.css",
-    "static/js/main.c478df93.js"
+    "static/js/main.1b1e885f.js"
   ]
 }
